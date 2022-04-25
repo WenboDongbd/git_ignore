@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("再试一次");
         System.out.println("git界面再试一次");
         System.out.println("冲突不");
+        System.out.println("git界面再试一次");
     }
 }
